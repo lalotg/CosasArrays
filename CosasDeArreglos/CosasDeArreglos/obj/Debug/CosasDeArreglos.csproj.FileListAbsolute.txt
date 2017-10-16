@@ -1,0 +1,7 @@
+C:\Users\lalo\Documents\Visual Studio 2017\Projects\CosasDeArreglos\CosasDeArreglos\bin\Debug\CosasDeArreglos.exe.config
+C:\Users\lalo\Documents\Visual Studio 2017\Projects\CosasDeArreglos\CosasDeArreglos\bin\Debug\CosasDeArreglos.exe
+C:\Users\lalo\Documents\Visual Studio 2017\Projects\CosasDeArreglos\CosasDeArreglos\bin\Debug\CosasDeArreglos.pdb
+C:\Users\lalo\Documents\Visual Studio 2017\Projects\CosasDeArreglos\CosasDeArreglos\obj\Debug\CosasDeArreglos.csprojResolveAssemblyReference.cache
+C:\Users\lalo\Documents\Visual Studio 2017\Projects\CosasDeArreglos\CosasDeArreglos\obj\Debug\CosasDeArreglos.csproj.CoreCompileInputs.cache
+C:\Users\lalo\Documents\Visual Studio 2017\Projects\CosasDeArreglos\CosasDeArreglos\obj\Debug\CosasDeArreglos.exe
+C:\Users\lalo\Documents\Visual Studio 2017\Projects\CosasDeArreglos\CosasDeArreglos\obj\Debug\CosasDeArreglos.pdb
